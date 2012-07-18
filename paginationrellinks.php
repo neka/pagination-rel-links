@@ -3,7 +3,7 @@
 Plugin Name: Pagination Rel Links
 Plugin URI: http://kaneandre.ws
 Description: Add rel links for all paginated pages. This will help clear up your dupilicate meta and title data as reported in Google Webmasters and let the spiders index your content properly to help SEO.
-Version: 1.1
+Version: 1.2
 Author: Kane Andrews
 Author URI: http://kaneandre.ws
 License: GPL2
