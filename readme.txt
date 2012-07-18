@@ -17,5 +17,3 @@ The Pagination Rel Links plugin will add the <link rel="prev/next"> meta tags to
 1. Upload `pagination-rel-links` folder to the `/wp-content/plugins/` directory .
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Rel links will be added into the header where appropriate.
-
-Adddd
